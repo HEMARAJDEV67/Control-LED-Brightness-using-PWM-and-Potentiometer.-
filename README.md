@@ -18,6 +18,7 @@ To control the brightness of an LED using a Potentiometer and PWM (Pulse Width M
 
 # Circuit Diagram
 
+
 <img width="422" height="747" alt="WhatsApp Image 2026-08-06 at 10 59 13 AM" src="https://github.com/user-attachments/assets/c9b081a2-c6f6-4afe-95b7-b0ef381296b6" />
 
 # Procedure
@@ -101,6 +102,10 @@ void loop() {
 }
 ```
 # Observation
+
+
+
+
 <img width="1103" height="1400" alt="WhatsApp Image 2026-09-25 at 10 27 47 AM" src="https://github.com/user-attachments/assets/2a09a590-25bf-403b-bc66-09c9a2b8fa06" />
 
 # Result
